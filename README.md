@@ -4,9 +4,8 @@ This is for a class I am attending for Spring 2025 for MS in Plant Pathology.
 I am making some edits here for the coding challenge 4.
 
 ```r
- fs::dir_tree
-```
-├── assgn_2.R
+ fs::dir_tree()
+ ├── assgn_2.R
 ├── assgn_3.R
 ├── BacterialAlpha.csv
 ├── Bull_richness.csv
